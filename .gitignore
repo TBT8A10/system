@@ -1,0 +1,6 @@
+# The following files/folders won't be uploaded due to them being too big and/or irrelevant
+recovery-from-boot.p
+apex/
+fonts/
+preloadmedia/
+app/DeviceTest/
